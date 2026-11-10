@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+*.log
+.DS_Store
+
+# Private user data
+/data/users.json
+
+# Local environment files
+.env
+.env.*
+
+# Allow example environment file
+!.env.example

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "David Miller",
+    "username": "dad_miller",
+    "role": "parent",
+    "passwordHash": ""
+  },
+  {
+    "id": 2,
+    "name": "Sarah Miller",
+    "username": "mom_miller",
+    "role": "parent",
+    "passwordHash": ""
+  },
+  {
+    "id": 3,
+    "name": "Jake Miller",
+    "username": "jake_miller",
+    "role": "child",
+    "passwordHash": ""
+  },
+  {
+    "id": 4,
+    "name": "Sophie Miller",
+    "username": "sophie_miller",
+    "role": "child",
+    "passwordHash": ""
+  }
+]
